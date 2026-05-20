@@ -1,6 +1,6 @@
 @StadiumGateSystem_HostAddress = http://localhost:5196
 
-GET {{StadiumGateSystem_HostAddress}}/weatherforecast/
+GET {{StadiumGateSystem_HostAddress}}/gateData/
 Accept: application/json
 
 ###
